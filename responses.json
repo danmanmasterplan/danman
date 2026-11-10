@@ -1,0 +1,43 @@
+{
+    "hello": [
+        "Hello! How are you?",
+        "Hey there!",
+        "Nice to hear from you!"
+    ],
+
+    "how are you": [
+        "I'm doing well!",
+        "All systems operational!",
+        "I'm doing great!"
+    ],
+
+    "what is your name": [
+        "My name is Python AI.",
+        "I'm your personal AI assistant."
+    ],
+
+    "thank you": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!"
+    ],
+
+    "goodbye": [
+        "Goodbye!",
+        "See you later!"
+    ],
+
+    "Can you tell me a joke?": [
+        "Why did the computer go to the doctor? Because it had a virus!",
+        "Why do programmers prefer dark mode? Because light attracts bugs!"
+    ],
+
+    "Can you make a image for me?": [
+        "I'm sorry, I can't create images.",
+        "I can't generate images"
+    ],
+    "knock knock": [
+        "Who's there?",
+        "Knock knock! Who's there?"
+    ]
+}

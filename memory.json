@@ -1,0 +1,17 @@
+{
+    "facts": {},
+    "conversation_history": [
+        {
+            "user": "hello",
+            "ai": "Nice to hear from you!"
+        },
+        {
+            "user": "hello",
+            "ai": "Hello! How are you?"
+        },
+        {
+            "user": "hello",
+            "ai": "Nice to hear from you!"
+        }
+    ]
+}
